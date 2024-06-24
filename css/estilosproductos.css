@@ -1,0 +1,150 @@
+* {background-color: #f4f4f4;}
+.banner {margin-top: 0px; 
+        margin-bottom: 0px; 
+        margin-left: 0px;
+        width: 100%;
+}
+.parrafoperfumes {background-color: #ffffff;
+                font-family: 'Trebuchet MS'; 
+                font-size: 14pt; 
+                text-align: justify;
+                margin-top: 9px; 
+                margin-bottom: -9px;
+                margin-left: -7px; 
+                margin-right: -30px;
+                padding-top: 20px;
+                padding-right: 70px;
+                padding-bottom: 20px;
+                padding-left: 50px;
+}
+em {background-color: #ffffff;      
+}
+nav a {font-family: 'Trebuchet MS'; 
+    color: #1e519e; 
+    font-size: 20pt; 
+    margin-left: 30px;
+    padding: 10px 10px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+nav a:hover {font-family: 'Trebuchet MS';
+        color: #f4f4f4;
+        background-color: #1e519e; 
+        padding: 40px 10px;
+        border-radius: 3px;           
+}
+main {justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+        margin-right: 0pt;
+        margin-left: -7pt;
+        padding-top: 10px;
+        padding-right: 0px;
+        padding-bottom: 10px;
+        background-color: #1e519e;
+        border: 10px solid #1e519e;
+}
+section {width: 100%;
+        background-color: #1e519e;
+        padding: 0px;     
+        border: 5px solid #1e519e; 
+}
+.tablaimgs {margin-left: 0pt;
+        border: 5px solid #1e519e;
+        text-align: center;
+        background-color: #1e519e;
+}
+.imgtabla {width: 70%;
+        border: 1px solid #f4f4f4;
+        border-radius: 5pt;
+}
+.tablabtns {margin-left: 0pt;
+        border: 5px solid #1e519e;
+        background-color: #1e519e;
+        text-align: center;
+}
+.fdotabla {background-color: #1e519e;
+}
+#botonmascl {padding: 10px;
+                margin: 0px 100px 0px 0px;
+                border: 1pt solid #030064;
+                border-radius: 2pt;
+                background-color: #f4f4f4;
+                font-family: 'Trebuchet MS';
+                color: #5c5c5c;
+}
+#botonmascl:hover {background-color: #030064;
+                font-family: 'Trebuchet MS';
+                color: #f4f4f4;
+                cursor: pointer;
+}
+#botonmascr {padding: 10px; 
+                margin: 0px 210px 0px 0px;
+                border: 1pt solid #030064;
+                border-radius: 2pt;
+                background-color: #f4f4f4;
+                font-family: 'Trebuchet MS';
+                color: #5c5c5c;
+}
+#botonmascr:hover {background-color: #030064;
+        font-family: 'Trebuchet MS';
+        color: #f4f4f4;
+        cursor: pointer;
+}
+#botonfeml {padding: 10px; 
+                margin: 0px 0px 0px 210px;
+                border: 1pt solid #030064;
+                border-radius: 2pt;
+                background-color: #f4f4f4;
+                font-family: 'Trebuchet MS';
+                color: #5c5c5c;
+}
+#botonfeml:hover {background-color: #7c0000;
+        font-family: 'Trebuchet MS';
+        color: #f4f4f4;
+        cursor: pointer;
+}
+#botonfemr {padding: 10px; 
+                margin: 0px 0px 0px 100px;
+                border: 1pt solid #030064;
+                border-radius: 2pt;
+                background-color: #f4f4f4;
+                font-family: 'Trebuchet MS';
+                color: #5c5c5c;
+}
+#botonfemr:hover {background-color: #7c0000;
+        font-family: 'Trebuchet MS';
+        color: #f4f4f4;
+        cursor: pointer;
+}
+#btnos {padding: 10px 25px;
+        margin: 0px 50px 0px 0px;
+        border: 1pt solid #0700c8;
+        border-radius: 2pt;
+        background-color: #f4f4f4;
+        font-family: 'Trebuchet MS';
+        color: #5c5c5c;
+}
+#btnos:hover {background-color: #9ecfff;
+        font-family: 'Trebuchet MS';
+        color: #f4f4f4;
+        cursor: pointer;
+}
+#btnas {padding: 10px 25px;
+        margin: 0px 0px 0px 50px;
+        border: 1pt solid #ff3737;
+        border-radius: 2pt;
+        background-color: #f4f4f4;
+        font-family: 'Trebuchet MS';
+        color: #5c5c5c;
+}
+#btnas:hover {background-color: #ff9d9d;
+        font-family: 'Trebuchet MS';
+        color: #f4f4f4;
+        cursor: pointer;
+}
+a {text-decoration: none; 
+    color: #7c0000;
+}
+footer {padding: 10px; text-align: center;}
+footer p {margin-bottom: 10px;  font-family: 'Trebuchet MS'; color: black;};
